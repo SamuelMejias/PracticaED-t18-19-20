@@ -1,0 +1,32 @@
+Preguntas tema 20:
+
+1-¿Qué es GitHub?
+
+a. Una plataforma para el desarrollo colaborativo que permite almacenar diferentes proyectos de los usuarios.
+
+b.Es un servicio web que implementa un sistema de control de versiones para facilitar el trabajo colaborativo mediante la utilización de Git.
+
+c.Es una aplicación que permite realizar gráficas y diagramas.
+
+d.No existe github.
+
+2-Entre github y gitlab encontramos varias diferencias, indica la incorrecta:
+
+a.Diferentes niveles de autenticación. A través de GitLab podemos fijar permisos de acceso de grano fino, es decir, podemos fijar los permisos a nivel de archivo. Sin embargo, en el caso de GitHub, los permisos se fijan a nivel de repositorio, pudiendo distinguir entre lectura o escritura únicamente.
+
+b. Integración continua. En GitLab existe la posibilidad de realizar integración continua que muchas veces puede ahorrar tiempo a los equipos de desarrolladores y a nuestro equipo de calidad
+
+c.Colaboración. GitHub permite crear repositorios privados de marea ilimitada, pero con un máximo de tres colaboradores. Sin embargo, GitLab ofrece la posibilidad de crear repositorios privados ilimitados en los cuales no hay límite en el número de colaboradores
+
+d.La C y la A son incorrectas.
+
+3-Existen diferentes alternativas a la hora de elegir repositorio Cloud de
+código, indica la correcta.
+
+a.Bitbucket
+
+b.DeGea
+
+c.Sabanna
+
+d.GroundForce
